@@ -38,9 +38,7 @@ Research Department, Federal Reserve Bank of Boston
 
 2. [**"Testing for Discrimination in Menus"**](https://davidhzhang.com/pdf/mortgagediscrimination.pdf) (with David Hao Zhang) - R&R, *American Economic Review*
 
-3. **"The Failure of Supervisory Stress Testing: Fannie Mae, Freddie Mac, and OFHEO"** (with Kris Gerardi and Scott Frame) - R&R, *Review of Financial Studies*
-
-4. [**"House Prices and Rents in the 21st Century"**](https://doi.org/10.29412/res.wp.2023.02) (with Lara Loewenstein) - 2023
+3. [**"House Prices and Rents in the 21st Century"**](https://doi.org/10.29412/res.wp.2023.02) (with Lara Loewenstein) - 2023
 
 ---
 
@@ -127,6 +125,22 @@ Research Department, Federal Reserve Bank of Boston
 - **"Twisting ARMs: Who Won and Who Lost from the LIBOR to SOFR Cramdown"** (with Deborah Lucas and John R Wilson)
 - **"Prices vs. Quantities Revisited: What Do Policy-Makers Need to Know to Set Pigouvian Taxes and Subsidies?"** (with Denise DiPasquale, Edward Glaeser, and Adam M. Guren)
 - **"The Effect of Land Supply for New Homes on Residential Investment and House Prices"** (with Justin Katz)
+
+---
+
+### Older Working Papers
+
+- **"The Failure of Supervisory Stress Testing: Fannie Mae, Freddie Mac, and OFHEO"** (with Kris Gerardi and Scott Frame) - R&R, *Review of Financial Studies*
+
+- [**"Subprime Outcomes: Risky Mortgages, Homeownership Experiences, and Foreclosures"**](https://www.bostonfed.org/-/media/Documents/Workingpapers/PDF/wp0715.pdf) (with Kris Gerardi and Adam Shapiro). Boston Fed Working Paper 07-15, 2007.
+
+- [**"Collateralized Borrowing and Life-Cycle Portfolio Choice"**](https://www.nber.org/papers/w12309) (with Felix Kubler). NBER Working Paper 12309, 2006.
+
+- [**"Incomplete Markets and Trade"**](https://www.bostonfed.org/-/media/Documents/Workingpapers/PDF/wp048.pdf). Boston Fed Working Paper 04-8, 2004.
+
+- [**"On the Gains to International Trade in Risky Financial Assets"**](https://www.nber.org/papers/w7796) (with Steve Davis and Jeremy Nalewaik). NBER Working Paper 7796, 2000.
+
+- **"Using Financial Assets to Hedge Labor Income Risks: Estimating the Benefits"** (with Steve Davis). 2000.
 
 ---
 
