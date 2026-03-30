@@ -1,0 +1,18 @@
+title: Paul S. Willen
+description: Senior Economist and Policy Advisor, Federal Reserve Bank of Boston
+url: "https://willen968.github.io"
+baseurl: ""
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Navigation
+header_pages:
+  - papers.md
+  - slides.md
+  - cv.md
+
+# Contact info
+email: Paul.Willen@bos.frb.org
