@@ -22,22 +22,6 @@ permalink: /papers/
 
 ---
 
-## Older Working Papers
-
-- **"The Failure of Supervisory Stress Testing: Fannie Mae, Freddie Mac, and OFHEO"** (with Kris Gerardi and Scott Frame) - R&R, *Review of Financial Studies*
-
-- [**"Subprime Outcomes: Risky Mortgages, Homeownership Experiences, and Foreclosures"**](https://www.bostonfed.org/-/media/Documents/Workingpapers/PDF/wp0715.pdf) (with Kris Gerardi and Adam Shapiro). Boston Fed Working Paper 07-15, 2007.
-
-- [**"Collateralized Borrowing and Life-Cycle Portfolio Choice"**](https://www.nber.org/papers/w12309) (with Felix Kubler). NBER Working Paper 12309, 2006.
-
-- [**"Incomplete Markets and Trade"**](https://www.bostonfed.org/-/media/Documents/Workingpapers/PDF/wp048.pdf). Boston Fed Working Paper 04-8, 2004.
-
-- [**"On the Gains to International Trade in Risky Financial Assets"**](https://www.nber.org/papers/w7796) (with Steve Davis and Jeremy Nalewaik). NBER Working Paper 7796, 2000.
-
-- **"Using Financial Assets to Hedge Labor Income Risks: Estimating the Benefits"** (with Steve Davis). 2000.
-
----
-
 ## Selected Recent Publications
 
 1. [**"The Time-Varying Price of Financial Intermediation in the Mortgage Market"**](https://doi.org/10.1111/jofi.13294) (with Andreas Fuster and Stephanie Lo). 2024. *Journal of Finance* 79(4): 2553-2602.
