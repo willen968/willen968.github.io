@@ -4,6 +4,12 @@ title: Slides
 permalink: /slides/
 ---
 
+## Discussion Slides
+
+- [**Discussion of "Differential Returns to Securitization: Evidence and Impact"**](slides/BCHHSlidesV2.pdf) — NBER Industrial Organization of Housing Markets, Stanford University, December 12, 2024
+
+---
+
 ## Harvard EC2410: The Financial Crisis
 
 Lecture notes from Advanced Topics in Macro (Spring 2017)
