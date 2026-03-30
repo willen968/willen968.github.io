@@ -6,7 +6,7 @@ permalink: /cv/
 
 ## Paul S. Willen
 
-**Senior Economist and Policy Advisor**
+**Principal Economist and Policy Advisor**
 Research Department, Federal Reserve Bank of Boston
 
 [Download CV (PDF)](papers/willen_cv.pdf)
@@ -15,7 +15,7 @@ Research Department, Federal Reserve Bank of Boston
 
 ### Positions
 
-- **Federal Reserve Bank of Boston**, Senior Economist and Policy Advisor, 2007-present
+- **Federal Reserve Bank of Boston**, Principal Economist and Policy Advisor, 2025-present; Senior Economist and Policy Advisor, 2007-2024; Senior Economist, 2004-2006
 - **Harvard University**, Visiting Lecturer, Department of Economics, 2022, 2016-2019, 2014
 - **MIT**, Visiting Associate Professor of Economics, 2013-2014, 2006-2008
 - **National Bureau of Economic Research**, Faculty Research Fellow, 2004-present

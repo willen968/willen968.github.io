@@ -5,7 +5,7 @@ title: Home
 
 # Paul S. Willen
 
-**Senior Economist and Policy Advisor**
+**Principal Economist and Policy Advisor**
 Research Department, Federal Reserve Bank of Boston
 
 ---
