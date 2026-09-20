@@ -4,6 +4,12 @@ title: Slides
 permalink: /slides/
 ---
 
+## Presentation Slides
+
+- [**"Is There a Puzzle in Underwater Mortgage Default?"**](slides/LWYZ_UnderwaterDefault_BoC_2026.pdf) (with Lara Loewenstein, Yuxi Yao, and David Hao Zhang) — Bank of Canada Housing Workshop, Ottawa, September 18, 2026
+
+---
+
 ## Discussion Slides
 
 - [**Discussion of "Differential Returns to Securitization: Evidence and Impact"**](slides/BCHHSlidesV2.pdf) — NBER Industrial Organization of Housing Markets, Stanford University, December 12, 2024
