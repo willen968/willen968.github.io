@@ -29,7 +29,7 @@ I received my Ph.D. in Economics from Yale University in 1997, and have previous
 
 - [**"How Resilient Is Mortgage Credit Supply?"**](https://doi.org/10.29412/res.wp.2021.04) (with Fuster, Hizmo, Lambie-Hanson, Vickery) — Forthcoming, *Journal of Finance*
 
-- [**"Technological Innovation in Mortgage Underwriting"**](papers/Innovation_in_Mortgage_Underwriting.pdf) (with Foote, Loewenstein) — Forthcoming, *Journal of Urban Economics*
+- [**"Technological Innovation in Mortgage Underwriting"**](https://doi.org/10.1016/j.jue.2026.103886) (with Foote, Loewenstein) — 2026, *Journal of Urban Economics* 154: 103886
 
 - [**"The Time-Varying Price of Financial Intermediation"**](https://doi.org/10.1111/jofi.13294) (with Fuster, Lo) — 2024, *Journal of Finance*
 
