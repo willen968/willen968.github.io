@@ -10,6 +10,7 @@ permalink: /policy/
 
 1. [**"Why Mortgage Rates Exceed Treasury Yields"**](https://www.bostonfed.org/publications/current-policy-perspectives/2026/why-mortgage-rates-exceed-treasury-yields.aspx) 2026. *Current Policy Perspectives* 26-3.
    - [Technical Appendix (PDF)](https://www.bostonfed.org/-/media/Documents/Workingpapers/PDF/2026/cpp20260519-appendix.pdf) — construction of the coupon spread, the decomposition regression, and the relationship to option-adjusted spreads.
+   {: style="margin-bottom: 15px"}
 
 2. [**"Lessons Learned from Mortgage Borrower Policies and Outcomes during the COVID-19 Pandemic"**](https://www.bostonfed.org/publications/current-policy-perspectives/2022/lessons-learned-from-mortgage-borrower-policies-and-outcomes-during-the-covid-19-pandemic.aspx) (with Kristopher Gerardi and Lauren Lambie-Hanson). 2022. *Current Policy Perspectives*.
 
