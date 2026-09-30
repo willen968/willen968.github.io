@@ -6,7 +6,7 @@ permalink: /cv/
 
 ## Paul S. Willen
 
-**Principal Economist and Policy Advisor**
+**Principal Economist and Policy Advisor**<br>
 Research Department, Federal Reserve Bank of Boston
 
 [Download CV (PDF)](papers/willen_cv.pdf)
