@@ -12,7 +12,7 @@ Research Department, Federal Reserve Bank of Boston
 
 ## About
 
-I am a Senior Economist and Policy Advisor in the Research Department at the Federal Reserve Bank of Boston and a Faculty Research Fellow at the National Bureau of Economic Research. My research focuses on mortgage markets, housing finance, household finance, and financial intermediation.
+I am a Principal Economist and Policy Advisor in the Research Department at the Federal Reserve Bank of Boston and a Faculty Research Fellow at the National Bureau of Economic Research. My research focuses on mortgage markets, housing finance, household finance, and financial intermediation.
 
 I received my Ph.D. in Economics from Yale University in 1997, and have previously held positions at Princeton University, the University of Chicago, MIT, and Harvard.
 
